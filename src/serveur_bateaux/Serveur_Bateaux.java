@@ -41,9 +41,9 @@ public class Serveur_Bateaux extends javax.swing.JFrame implements ConsoleServeu
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         jLabel1.setFont(new java.awt.Font("Dialog", 0, 14)); // NOI18N
-        jLabel1.setText("Serveur_Compta");
+        jLabel1.setText("Serveur_Bateau");
 
-        jLabel2.setText("Port pour le serveur_mouvements :");
+        jLabel2.setText("Port du serveur Bateau :");
 
         TFPort_mouvements.setText("6666");
 
